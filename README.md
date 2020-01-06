@@ -79,6 +79,7 @@ w.open(url);
 ## Compatibility
 
 30th Dec 2019 - Tested on New York instance
+
 06th Jan 2020 - Tested on Madrid instance
 
 ## Screenshots
